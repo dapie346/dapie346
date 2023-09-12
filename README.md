@@ -24,7 +24,7 @@ My journey into the realm of programming began through self-driven exploration. 
   <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Microsoft SQL Server" width="60" height="60">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60">&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSql" width="60" height="60">&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:591/1*4HIU0YdDkj0dmGySVC5D_g.png" alt="Entity Framework" width="60" height="60">
+  <img src="https://github.com/dapie346/dapie346/assets/62459571/7a0a15c1-47ec-4d88-b19f-82fc4f35dcb1" alt="Entity Framework" width="60" height="60">
 </p>
 
 #### **IDEs & Development Tools**:
@@ -55,19 +55,3 @@ My journey into the realm of programming began through self-driven exploration. 
 🧠 **Skills Progress**: Check out my [Codewars journey](https://www.codewars.com/users/dapie346).
 
 ![Codewars Progress](https://github.com/dapie346/dapie346/assets/62459571/12c5940f-ecfc-4a9b-bf31-6166ff3cf3d8)
-
-
-<!--
-**dapie346/dapie346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
