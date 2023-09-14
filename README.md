@@ -13,7 +13,7 @@ My journey into the realm of programming began through self-driven exploration. 
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="60" height="60">&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60">&nbsp;
   <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="60" height="60">&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="60" height="60">&nbsp;
+  <!-- <img src="https://skillicons.dev/icons?i=django" alt="Django" width="60" height="60">&nbsp; -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60">&nbsp;
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60">&nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60" height="60">
