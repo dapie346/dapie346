@@ -49,7 +49,7 @@ My journey into the realm of programming began through self-driven exploration. 
 💬 **Let's Chat**: Discuss tech, software, or any challenges you’re exploring.
 
 📫 **Contact Me**:
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dpietruszewski/)](https://www.linkedin.com/in/dpietruszewski/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dpietr/)](https://www.linkedin.com/in/dpietr/)
 [![Email Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawid.pietruszewski@gmail.com)](mailto:dawid.pietruszewski@gmail.com)
 
 🧠 **Skills Progress**: Check out my [Codewars journey](https://www.codewars.com/users/dapie346).
